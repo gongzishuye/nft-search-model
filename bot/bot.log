@@ -169,3 +169,97 @@ Saving image: upload/23d48940-6605-4535-aa80-4ac25b7a79ba.jpg
   60.311966  60.59469   61.050026  61.758953 ]]
 /home/ec2-user/workspace/data/notrain/gutterdogs/1221.png
 message from discord.
+Saving image: upload/8243a479-8598-42a4-80be-a59435b07c9e.jpg
+(1, 128)
+[[885292 540192 959745 544154 900788 902923 758770 679733 752954 650490]]
+[[76.663315 77.13591  77.63053  78.63275  83.23546  84.09501  84.45373
+  84.90111  84.92579  85.614395]]
+/home/ec2-user/workspace/data/train/cryptoongoonz/4906.png
+message from discord.
+Saving image: upload/a10bf8c9-7af0-4a0a-8b33-b5d5bb7c40ec.jpg
+(1, 128)
+[[983189 976309 983699 979911 978586 751842 981922 673831  57617  54867]]
+[[ 0.12595887 59.791824   66.58143    66.88861    67.04637    69.29715
+  69.42301    74.61847    75.88913    76.324265  ]]
+/home/ec2-user/workspace/data/train/azuki/07381.png
+message from discord.
+Saving image: upload/f79e7789-d13a-42ff-bea1-27f5438317c6.jpg
+(1, 128)
+[[587742 583733 587848 582850  50414 587871 592001  56413 589563 590816]]
+[[ 0.14683832 34.182213   40.98221    43.83045    44.27444    46.75839
+  47.41728    47.8221     48.43371    49.542618  ]]
+/home/ec2-user/workspace/data/train/boredapeyachtclub/5037.png
+message from discord.
+Saving image: upload/f8277535-c811-43d9-9b22-1c3afc313c1e.jpg
+(1, 128)
+[[900128 903960 914324 909523 903018 904346 912555 913436 901131 902648]]
+[[ 3.4352512 29.695942  47.564514  49.05192   50.686905  53.987537
+  55.65306   55.833763  57.37292   57.738342 ]]
+/home/ec2-user/workspace/data/train/meebits/02480.png
+message from discord.
+Error: No attachments
+message from discord.
+Error: No attachments
+message from discord.
+Error: No attachments
+message from discord.
+Error: No attachments
+message from discord.
+Saving image: upload/e84a10a1-c26e-4c51-b32d-ef777c23cf49.jpg
+(1, 128)
+[[617100 622246 614886 612033 619151 624056 609529 626301 608111 618901]]
+[[8.1243832e-03 3.1863373e+01 3.3547344e+01 3.4380104e+01 3.6280773e+01
+  3.7432747e+01 3.8924946e+01 3.9094833e+01 3.9217529e+01 4.4148796e+01]]
+/home/ec2-user/workspace/data/train/clonex/09370.png
+message from discord.
+Saving image: upload/37538c21-5631-4d6f-803e-cfabe7783b42.jpg
+(1, 128)
+[[334801 334527 332345 330453 330338 335852 328861 330308 337593 329617]]
+[[4.0647430e-11 2.1209102e+00 2.2756483e+01 2.3835041e+01 2.4017609e+01
+  2.4085243e+01 2.5180571e+01 2.5992554e+01 2.7551212e+01 2.8078766e+01]]
+/home/ec2-user/workspace/data/notrain/cryptopunks/6257.png
+Connected to bot: nft-search
+Bot ID: 972327275070631966
+message from discord.
+Saving image: upload/818de1ed-a09a-48a2-94fd-cbf7e24ae16e.jpg
+(1, 128)
+[[334801 334527 332345 330453 330338 335852 328861 330308 337593 329617]]
+[[4.0647430e-11 2.1209102e+00 2.2756483e+01 2.3835041e+01 2.4017609e+01
+  2.4085243e+01 2.5180571e+01 2.5992554e+01 2.7551212e+01 2.8078766e+01]]
+/home/ec2-user/workspace/data/notrain/cryptopunks/6257.png
+message from discord.
+Saving image: upload/bd4b9e1d-cb97-4003-8be3-5afc98459a03.jpg
+(1, 128)
+[[334801 334527 332345 330453 330338 335852 328861 330308 337593 329617]]
+[[4.0647430e-11 2.1209102e+00 2.2756483e+01 2.3835041e+01 2.4017609e+01
+  2.4085243e+01 2.5180571e+01 2.5992554e+01 2.7551212e+01 2.8078766e+01]]
+/home/ec2-user/workspace/data/notrain/cryptopunks/6257.png
+message from discord.
+Saving image: upload/fadef788-6356-4370-ba3d-3660372c4844.jpg
+(1, 128)
+[[334801 334527 332345 330453 330338 335852 328861 330308 337593 329617]]
+[[4.0647430e-11 2.1209102e+00 2.2756483e+01 2.3835041e+01 2.4017609e+01
+  2.4085243e+01 2.5180571e+01 2.5992554e+01 2.7551212e+01 2.8078766e+01]]
+/home/ec2-user/workspace/data/notrain/cryptopunks/6257.png
+Connected to bot: nft-search
+Bot ID: 972327275070631966
+Connected to bot: nft-search
+Bot ID: 972327275070631966
+Connected to bot: nft-search
+Bot ID: 972327275070631966
+Connected to bot: nft-search
+Bot ID: 972327275070631966
+Traceback (most recent call last):
+  File "/home/ec2-user/workspace/facenet/bot.py", line 143, in <module>
+    client.run(TOKEN)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/discord/client.py", line 723, in run
+    return future.result()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/discord/client.py", line 702, in runner
+    await self.start(*args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/discord/client.py", line 666, in start
+    await self.connect(reconnect=reconnect)
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/discord/client.py", line 566, in connect
+    await self.ws.poll_event()
+  File "/home/ec2-user/.local/lib/python3.9/site-packages/discord/gateway.py", line 582, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 4004
