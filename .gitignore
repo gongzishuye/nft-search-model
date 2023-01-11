@@ -1,0 +1,13 @@
+/.idea
+.DS_Store
+/__pycache__
+*.npy
+complete
+*.txt
+datasets
+*.png
+log
+nohup.out
+__pycache__
+upload
+upload_file
